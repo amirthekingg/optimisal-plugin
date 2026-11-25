@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "optimisal": {
+      "type": "http",
+      "url": "https://dashboard.optimisal.app/mcp"
+    }
+  }
+}

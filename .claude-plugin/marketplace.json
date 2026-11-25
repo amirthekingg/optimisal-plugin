@@ -1,0 +1,16 @@
+{
+    "name":  "optimisal",
+    "owner":  {
+                  "name":  "Optimisal"
+              },
+    "metadata":  {
+                     "description":  "Optimisal\u0027s MCP server and agent skills for Roblox games."
+                 },
+    "plugins":  [
+                    {
+                        "name":  "optimisal",
+                        "source":  "./claude",
+                        "description":  "Optimisal\u0027s MCP server and agent skills for Roblox games."
+                    }
+                ]
+}

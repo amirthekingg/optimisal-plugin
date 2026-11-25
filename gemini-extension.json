@@ -1,0 +1,11 @@
+{
+  "name": "optimisal",
+  "version": "0.1.0",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "optimisal": {
+      "httpUrl": "${OPTIMISAL_URL}/mcp",
+      "headers": { "Authorization": "Bearer ${OPTIMISAL_AGENT_KEY}" }
+    }
+  }
+}

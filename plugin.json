@@ -1,0 +1,15 @@
+{
+  "name": "optimisal",
+  "displayName": "Optimisal",
+  "version": "0.1.0",
+  "description": "Optimisal for Roblox games: triage incidents, inspect errors, players, cohorts, and economy health, run A/B & storefront experiments, and manage LiveOps safely.",
+  "author": {
+    "name": "Optimisal"
+  },
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Triage the latest open incident and inspect its telemetry",
+    "Draft and preflight a scheduled game name or icon A/B test",
+    "Review economy health, retention cohorts, and LiveOps events"
+  ]
+}

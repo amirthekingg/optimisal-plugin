@@ -1,0 +1,11 @@
+{
+  "name": "optimisal",
+  "displayName": "Optimisal",
+  "version": "0.1.0",
+  "description": "Optimisal for Roblox games: read incidents, errors, players, cohorts, and the economy, set up LiveOps, A/B & storefront experiments, and game settings, and add the SDK, with skills for triage, LiveOps, experiments, economy review, and instrumentation.",
+  "author": { "name": "Optimisal Studio" },
+  "license": "MIT",
+  "homepage": "https://github.com/amirthekingg/optimisal-plugin",
+  "privacyPolicyUrl": "https://optimisal.app/legal/privacy",
+  "keywords": ["roblox", "luau", "liveops", "experiments", "observability", "mcp"]
+}
